@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v10.0",
@@ -20,4 +21,28 @@
       "sha512": ""
     }
   }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Day4_22_dec_2025_assessment/1.0.0": {
+        "runtime": {
+          "Day4_22_dec_2025_assessment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day4_22_dec_2025_assessment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> 439b82da24516ed3627b2960bcaf1c7c27e74f89
 }
